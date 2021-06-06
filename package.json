@@ -1,0 +1,21 @@
+{
+    "name": "atom-one-dark-inverted",
+    "displayName": "Atom One Dark Inverted",
+    "description": "Inverted color theme of the Atom One Dark Theme by akamud",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom One Dark Inverted",
+                "uiTheme": "vs",
+                "path": "./themes/AtomOneDarkInverted.json"
+            }
+        ]
+    }
+}
